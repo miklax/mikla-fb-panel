@@ -1,5 +1,6 @@
 ## react router login forma
 # fake login na main page
+https://github.com/tylermcginnis/react-router-firebase-auth
 
 ## backend UI
 Cela tema bi trebalo da bude bela/monohromatska.
@@ -13,4 +14,6 @@ homepage / tabela/spisak radova. Desno dugmici na svakom postu za edit/delete.
 new rad dugme koji ce zameniti tabelu sa formom za novi unos. Tu implementirati neki wysiwyg ili napraviti rucno. Jebem li ga. 
 
 #blog
+isto kao porfolio za sada, ta-daaa!
+
 
